@@ -7,6 +7,7 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
   2024-present
 
 ## 📜 Certifications
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e182d8b6bf6948569c5f08d61d8b30f1)
 
 ## 🛠 Skillsets
 - **Programming:** Java, JavaScript
