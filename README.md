@@ -7,6 +7,7 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
   2024-present
 
 - **Senior High School**
+  
   New Era University
   2022-2024
 
