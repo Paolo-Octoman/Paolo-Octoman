@@ -5,3 +5,13 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 - **BS Computer Science**\
   New Era University\
   2024-present
+
+## 📜 Certifications
+
+## 🛠 Skillsets
+- **Programming:** Java, JavaScript
+- **Databases:** SQL
+- **Tools:** LucidChart, Eclipse, HTML
+
+## 📬 Email me at
+epmoctoman@gmail.com
