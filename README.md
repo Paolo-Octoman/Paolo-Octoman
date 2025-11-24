@@ -4,8 +4,8 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 ## 🎓 Education
 | Grade Level | Course                  | School                                   | School Year      |
 | ----------- | ----------------------- | ---------------------------------------- | ---------------- |
-| Nursery     | Preschool               | Domini Angelicus Integrated School, Inc. | 2009-2010        |
-| Kinder      | Preschool               | New Era University                       | 2010-2011        |
+| Nursery | Preschool | Domini Angelicus Integrated School, Inc. | 2009-2010 |
+| <span style="color: #FF0000;">Kinder</span> | Preschool | New Era University | 2010-2011 |
 | Preparatory | Preschool               | New Era University                       | 2011-2012        |
 | Grade 1-6   | Elementary              | New Era University                       | 2012-2018        |
 | Grade 7-10  | Junior High             | New Era University                       | 2018-2022        |
