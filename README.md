@@ -19,10 +19,9 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 | Become An OCI Foundations Associate (2025) | Oracle University | [Click Here to View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22CFDC6144F4D7AE17CF46B63B62C923EFF9A506DD9FE4DE2DC57F4EB1F2A47C) |
 
 ## 🛠 Skillsets
-- **Programming:** Java, JavaScript
-- **Databases:** SQL
-- **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA
-- **DevTools:** Notepad++, MS Office
+- **Programming:** Java, JavaScript, SQL
+- **Databases:** SQL (via IBM DB2 Cloud)
+- **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA, Canva, Notepad++
 
 ## 📬 Email me at
 epmoctoman@gmail.com
