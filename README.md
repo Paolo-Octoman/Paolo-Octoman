@@ -18,4 +18,4 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 - **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA, Canva, Notepad++
 
 ## 📬 Email me at
-epmoctoman@gmail.com
+Gmail: epmoctoman@gmail.com
