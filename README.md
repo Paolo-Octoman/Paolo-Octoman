@@ -13,7 +13,10 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 | **College** | **BS Computer Science** | **New Era University**                   | **2024-present** |
 
 ## 📜 Certifications
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/e182d8b6bf6948569c5f08d61d8b30f1)
+| Certificate Title | Site Name | View Certificate |
+| ----------------- | --------- | ------------------ |
+| SQL and Relational Databases 101 | CognitiveClass | [Click Here to View](https://courses.cognitiveclass.ai/certificates/e182d8b6bf6948569c5f08d61d8b30f1) |
+| Become An OCI Foundations Associate (2025) | Oracle University | Click Here to View |
 
 ## 🛠 Skillsets
 - **Programming:** Java, JavaScript
