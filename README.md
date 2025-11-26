@@ -16,7 +16,7 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 | Certificate Title | Site Name | View Certificate |
 | ----------------- | --------- | ------------------ |
 | SQL and Relational Databases 101 | CognitiveClass | [Click Here to View](https://courses.cognitiveclass.ai/certificates/e182d8b6bf6948569c5f08d61d8b30f1) |
-| Become An OCI Foundations Associate (2025) | Oracle University | Click Here to View |
+| Become An OCI Foundations Associate (2025) | Oracle University | [Click Here to View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=22CFDC6144F4D7AE17CF46B63B62C923EFF9A506DD9FE4DE2DC57F4EB1F2A47C) |
 
 ## 🛠 Skillsets
 - **Programming:** Java, JavaScript
