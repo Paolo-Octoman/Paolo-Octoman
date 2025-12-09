@@ -17,7 +17,7 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 ## 🛠 Skillsets
 - **Programming:** Java, JavaScript, SQL
 - **Databases:** SQL (via IBM DB2 Cloud)
-- **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA, Canva, Notepad++
+- **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA, Canva, Notepad++, GitHub
 
 ## 📬 Email me at
 Gmail: epmoctoman@gmail.com
