@@ -15,7 +15,7 @@ Welcome to my GitHub Profile! I am a dedicated **BS Computer Science** student a
 | Become An OCI AI Foundations Associate (2025) | Oracle University | [Click Here to View](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A9C43883D2FC516E45292EBD1A6E8DEDEBE91BCC3FC496BA989AF8D05AB5C7D5) |
 
 ## 🛠 Skillsets
-- **Programming:** Java, JavaScript, SQL
+- **Programming:** Java, JavaScript, SQL, Python
 - **Databases:** SQL (via IBM DB2 Cloud)
 - **Tools:** LucidChart, Eclipse, HTML, IntelliJ IDEA, Canva, Notepad++, GitHub
 
